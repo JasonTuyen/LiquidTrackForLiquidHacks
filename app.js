@@ -21,3 +21,13 @@ function addButton(){
     }
     lastClickTime =  new Date();
 };
+
+function reminderDrink(){
+    alert("Remember to take a sip of water.");
+}
+
+setInterval(reminderDrink, 600000)
+
+var quotes = [
+    
+]
