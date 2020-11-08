@@ -1,3 +1,4 @@
+const acnh_api_url = 'http://acnhapi.com/v1/hourly/'
 var glasses = 0;
 var lastClickTime = 0;
 var quotes = [
@@ -51,3 +52,14 @@ function reminderDrink(){
 }
 
 setInterval(reminderDrink, 600000)
+
+async function getHourlyMusic(){
+    var songID = Math.floor(Math.random() * 72);
+    const response = await fetch(acnh_api_url + songID);
+    console.log(response.url)
+    var audio = new Audio(response.url);
+    audio.loop = true;
+    audio.play();
+}
+
+getHourlyMusic();
