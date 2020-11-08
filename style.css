@@ -24,3 +24,12 @@ button:hover{
   background-color: white;
   color:black;
 }
+
+#quotes{
+  height: 300px;
+  font-size: 35px;
+}
+
+.container{
+  max-width: 50%;
+}
