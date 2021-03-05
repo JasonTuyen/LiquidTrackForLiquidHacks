@@ -1,6 +1,6 @@
 # LiquidTrackForLiquidHacks
 
-This was a web application that I created during Liquid Hacks (a hackathon hosted by the eSports Organization: Team Liquid) to promote mental health. This web application tracks water intake, sends reminders, provides inspirational League of Legends Quotes, and plays Animal Crossing music.
+This was a web application that I created during Liquid Hacks (a hackathon hosted by the esports Organization: Team Liquid) to promote mental health. This web application tracks water intake, sends reminders, provides inspirational League of Legends Quotes, and plays Animal Crossing music.
 
 ## Built With
 
