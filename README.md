@@ -10,7 +10,7 @@ This was a web application that I created during Liquid Hacks (a hackathon hoste
 
 ## Demo
 
-I will provide a link to a demo soon.
+https://jasontuyen.github.io/LiquidTrackForLiquidHacks/
 
 ## Future Development Plans
 
